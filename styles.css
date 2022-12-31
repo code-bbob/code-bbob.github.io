@@ -234,25 +234,12 @@ flex-direction: row;
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
 @media screen and (max-width: 400px) 
 {
   header {
     width: 100%;
     background-color: #f3ede9;
-    height: 10%;
+    height: 100%;
     color: #575656;
     display: flex;
     font-family:Arial, Helvetica, sans-serif;
